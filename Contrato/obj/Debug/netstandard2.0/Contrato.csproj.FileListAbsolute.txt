@@ -1,0 +1,9 @@
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\Contrato\bin\Debug\netstandard2.0\Contrato.deps.json
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\Contrato\bin\Debug\netstandard2.0\Contrato.dll
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\Contrato\bin\Debug\netstandard2.0\Contrato.pdb
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\Contrato\obj\Debug\netstandard2.0\Contrato.csprojAssemblyReference.cache
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\Contrato\obj\Debug\netstandard2.0\Contrato.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\Contrato\obj\Debug\netstandard2.0\Contrato.AssemblyInfoInputs.cache
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\Contrato\obj\Debug\netstandard2.0\Contrato.AssemblyInfo.cs
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\Contrato\obj\Debug\netstandard2.0\Contrato.dll
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\Contrato\obj\Debug\netstandard2.0\Contrato.pdb
