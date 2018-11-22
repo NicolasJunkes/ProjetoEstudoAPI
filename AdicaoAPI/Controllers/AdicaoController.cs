@@ -1,20 +1,22 @@
 ﻿using AdicaoAPI.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+using System.Web.Http;
 
 namespace AdicaoAPI.Controllers
 {
-    public class AdicaoController : Controller
+    [RoutePrefix("api/adicao")]
+    public class AdicaoController : ApiController
     {
-        // GET: Adicao
-        [HttpPost]
-        public double Adicionar(double valor1, double valor2)
+        public AdicaoController()
         {
+        }
+
+        [HttpPost, Route("adicionar")]
+        public double Adicionar([FromBody]string byteContent)
+        {
+            double resultadoFinal;
             Adicao adicao = new Adicao();
-            return adicao.Calcule(valor1,valor2);
+            resultadoFinal = adicao.Calcule();
+            return resultadoFinal; 
         }
     }
 }
