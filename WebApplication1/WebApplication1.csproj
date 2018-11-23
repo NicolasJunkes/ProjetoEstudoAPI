@@ -187,6 +187,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\ParametroApiExpressao.cs" />
+    <Compile Include="Models\Valores.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Servicos\VerificarExpressao.cs" />
   </ItemGroup>

@@ -159,7 +159,9 @@ C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\roslyn\vbc.e
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\roslyn\vbc.rsp
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\roslyn\VBCSCompiler.exe
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\AdicaoAPI.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Contrato.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -183,7 +185,9 @@ C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\System.Web.W
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\System.Web.WebPages.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\System.Web.WebPages.Razor.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\WebGrease.dll
-C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Contrato.dll
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\AdicaoAPI.pdb
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\AdicaoAPI.dll.config
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Contrato.pdb
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Newtonsoft.Json.xml
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\System.Net.Http.Formatting.xml
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\System.Web.Helpers.xml
@@ -202,7 +206,6 @@ C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Microsoft.AI
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Microsoft.AI.Web.xml
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\Contrato.pdb
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\pt-br\System.Net.Http.Formatting.resources.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\pt-br\System.Web.Http.resources.dll
@@ -218,6 +221,3 @@ C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\obj\Debug\WebApp
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\obj\Debug\WebApplication1.pdb
-C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\AdicaoAPI.dll
-C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\AdicaoAPI.pdb
-C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\AdicaoAPI.dll.config

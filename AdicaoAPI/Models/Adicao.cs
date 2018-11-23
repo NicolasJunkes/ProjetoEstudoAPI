@@ -8,10 +8,9 @@ namespace AdicaoAPI.Models
 {
     public class Adicao : ICalcular
     {
-        public double Calcule(double valor1, double valor2)
+        public double Calcular(double valor1, double valor2)
         {
-            double resultado;
-            return resultado = valor1 + valor2;
+            return valor1 + valor2;
         }
     }
 

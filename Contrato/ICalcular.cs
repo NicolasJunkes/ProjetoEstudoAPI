@@ -2,6 +2,6 @@
 {
     public interface ICalcular
     {
-        double Calcule(double valor1, double valor2);
+        double Calcular(double valor1, double valor2);
     }
 }

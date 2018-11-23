@@ -1,4 +1,5 @@
-﻿using System.Web.Http;
+﻿using System.Net.Http;
+using System.Web.Http;
 using WebApplication1.Models;
 using WebApplication1.Servicos;
 
@@ -10,11 +11,12 @@ namespace WebApplication1.Controllers
         //// POST
         [HttpPost]
         [Route("calcularExpressao")]
-        public IHttpActionResult Calculo([FromBody] ParametroApiExpressao parametro)
+        public HttpResponseMessage Calculo([FromBody] ParametroApiExpressao parametro)
         {
             VerificarExpressao verificarExpressao = new VerificarExpressao();
-            verificarExpressao.CalcularExpressao(parametro);
-            return null;
+            var resultado = verificarExpressao.CalcularExpressao(parametro);
+
+            return Request.CreateResponse(System.Net.HttpStatusCode.OK, resultado );
         }
     }
 }
