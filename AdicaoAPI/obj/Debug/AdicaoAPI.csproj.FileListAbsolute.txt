@@ -96,3 +96,14 @@ C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\obj\Debug\AdicaoAPI.cs
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\obj\Debug\AdicaoAPI.csproj.CopyComplete
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\obj\Debug\AdicaoAPI.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\obj\Debug\AdicaoAPI.pdb
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\bin\EntityFramework.dll
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\bin\EntityFramework.xml
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\bin\AutoMapper.dll
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\bin\System.ValueTuple.dll
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\bin\AutoMapper.pdb
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\bin\AutoMapper.xml
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\bin\System.ValueTuple.xml
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\obj\Debug\AdicaoAPI.Migrations.CriandoAdicaoDB.resources
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\AdicaoAPI\obj\Debug\AdicaoAPI.csproj.GenerateResource.cache

@@ -221,3 +221,5 @@ C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\obj\Debug\WebApp
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\EntityFramework.dll
+C:\Users\nicolas.junkes\Documents\GitHub\ApiMES\WebApplication1\bin\EntityFramework.xml
